@@ -130,12 +130,4 @@ Digital wallet backend system using Spring Boot.
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/chandupriya8179/chandupriya8179/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ⭐ Thanks for visiting my GitHub profile!
