@@ -50,7 +50,7 @@
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 </p>
 
@@ -80,11 +80,27 @@
 
 # 🚀 My Projects
 
-### 💰 FinTech Portfolio Tracker
+### ☸ Kubernetes Production Stack
 
-Track stock investments and visualize portfolio performance.
+Containerized production deployment using Kubernetes with scalable infrastructure.
 
-🔗 https://github.com/chandupriya8179/portfolio-tracker
+🔗 https://github.com/chandupriya8179/k8s-production-stack
+
+---
+
+### 😀 Emotion Detection System
+
+AI-based system that detects human emotions using machine learning techniques.
+
+🔗 https://github.com/chandupriya8179/emotion-detection
+
+---
+
+### 💰 Money Heist Project
+
+A creative software project inspired by Money Heist for learning programming concepts.
+
+🔗 https://github.com/chandupriya8179/money-heist
 
 ---
 
@@ -93,22 +109,6 @@ Track stock investments and visualize portfolio performance.
 Digital wallet backend system built using Spring Boot.
 
 🔗 https://github.com/chandupriya8179/phonepe-clone
-
----
-
-### 🛒 Spring Boot E-Commerce
-
-REST API based backend for an online shopping platform.
-
-🔗 https://github.com/chandupriya8179/ecommerce-project
-
----
-
-### ☁ Secure File Storage
-
-Cloud file storage system using hybrid cryptography encryption.
-
-🔗 https://github.com/chandupriya8179/secure-file-storage
 
 ---
 
