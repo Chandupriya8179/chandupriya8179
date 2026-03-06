@@ -1,5 +1,3 @@
-<!-- PROFILE HEADER -->
-
 <h1 align="center">Hi 👋 I'm Chandu Priya</h1>
 
 <p align="center">
@@ -8,7 +6,7 @@
 
 ---
 
-# 🌈 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -17,11 +15,11 @@
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-SendMail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -30,11 +28,11 @@
 
 # 👩‍💻 About Me
 
-🌸 BTech AIML Student
-🤖 Learning AI, ML and Data Science
-💻 Building Java + Spring Boot Projects
-📊 Interested in FinTech & Backend Development
-🚀 Growing my coding skills every day
+🎓 BTech AIML Student
+🤖 Learning Artificial Intelligence & Machine Learning
+💻 Backend Developer (Java + Spring Boot)
+📊 Interested in FinTech & Data Science
+🚀 Passionate about building real-world projects
 
 ---
 
@@ -62,9 +60,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chandupriya8179&show_icons=true&theme=radical"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandupriya8179&layout=compact&theme=radical"/>
 
 </p>
 
@@ -74,7 +72,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=radical"/>
+<img src="https://streak-stats.demolab.com/?user=chandupriya8179&theme=radical"/>
 
 </p>
 
@@ -86,32 +84,32 @@
 
 Track stock investments and visualize portfolio performance.
 
-🔗 https://github.com/YOURUSERNAME/portfolio-tracker
+🔗 https://github.com/chandupriya8179/portfolio-tracker
 
 ---
 
 ### 💳 PhonePe Wallet Clone
 
-Backend wallet system with money transfer functionality using Spring Boot.
+Digital wallet backend system built using Spring Boot.
 
-🔗 https://github.com/YOURUSERNAME/phonepe-clone
+🔗 https://github.com/chandupriya8179/phonepe-clone
 
 ---
 
 ### 🛒 Spring Boot E-Commerce
 
-REST API based backend for an online store with product management.
+REST API based backend for an online shopping platform.
 
-🔗 https://github.com/YOURUSERNAME/ecommerce-project
+🔗 https://github.com/chandupriya8179/ecommerce-project
 
 ---
 
 ### ☁ Secure File Storage
 
-Encrypted cloud file storage system using hybrid cryptography.
+Cloud file storage system using hybrid cryptography encryption.
 
-🔗 https://github.com/YOURUSERNAME/secure-file-storage
+🔗 https://github.com/chandupriya8179/secure-file-storage
 
 ---
 
-# ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my GitHub profile!
