@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋 I'm Chandu Priya</h1>
+<!-- Coding Banner Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Python+Developer;Spring+Boot+Learner;Building+FinTech+Projects;Welcome+to+My+GitHub+Profile"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=200&section=header&text=Chandu%20Priya&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Chandu Priya</h1>
+
+<!-- Typing Animation -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Python+Developer;Spring+Boot+Learner;Kubernetes+Enthusiast;Welcome+to+My+GitHub+Profile"/>
 </p>
 
 ---
@@ -15,7 +23,7 @@
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-SendMail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://linkedin.com">
@@ -78,11 +86,21 @@
 
 ---
 
+# 🌌 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandupriya8179&theme=react-dark"/>
+
+</p>
+
+---
+
 # 🚀 My Projects
 
 ### ☸ Kubernetes Production Stack
 
-Containerized production deployment using Kubernetes with scalable infrastructure.
+Containerized production deployment using Kubernetes.
 
 🔗 https://github.com/chandupriya8179/k8s-production-stack
 
@@ -90,7 +108,7 @@ Containerized production deployment using Kubernetes with scalable infrastructur
 
 ### 😀 Emotion Detection System
 
-AI-based system that detects human emotions using machine learning techniques.
+AI project that detects human emotions using machine learning.
 
 🔗 https://github.com/chandupriya8179/emotion-detection
 
@@ -98,7 +116,7 @@ AI-based system that detects human emotions using machine learning techniques.
 
 ### 💰 Money Heist Project
 
-A creative software project inspired by Money Heist for learning programming concepts.
+Programming project inspired by Money Heist.
 
 🔗 https://github.com/chandupriya8179/money-heist
 
@@ -106,9 +124,17 @@ A creative software project inspired by Money Heist for learning programming con
 
 ### 💳 PhonePe Wallet Clone
 
-Digital wallet backend system built using Spring Boot.
+Digital wallet backend system using Spring Boot.
 
 🔗 https://github.com/chandupriya8179/phonepe-clone
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/chandupriya8179/chandupriya8179/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
