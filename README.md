@@ -1,7 +1,7 @@
 <!-- Coding Banner Animation -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=200&section=header&text=Chandu%20Priya&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:9d4edd&height=200&section=header&text=Chandu%20Priya&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Chandu Priya</h1>
@@ -85,23 +85,22 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=chandupriya8179&theme=radical"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=chandupriya8179&theme=algolia"/>
 </p>
 
 ---
 
-# 🌌 3D Contribution Graph
+
+
+## 📈 GitHub Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandupriya8179&theme=react-dark"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandupriya8179&theme=tokyo-night"/>
 </p>
+
 
 ---
 
