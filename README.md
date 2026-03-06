@@ -122,12 +122,4 @@ Programming project inspired by Money Heist.
 
 ---
 
-### 💳 PhonePe Wallet Clone
-
-Digital wallet backend system using Spring Boot.
-
-🔗 https://github.com/chandupriya8179/phonepe-clone
-
----
-
 ⭐ Thanks for visiting my GitHub profile!
