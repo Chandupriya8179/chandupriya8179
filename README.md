@@ -77,10 +77,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 👀 Profile Views
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chandupriya8179&theme=algolia&margin-w=10&margin-h=10"/>
+<img src="https://komarev.com/ghpvc/?username=chandupriya8179&label=Profile%20views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
