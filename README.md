@@ -85,6 +85,14 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=chandupriya8179&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
 ## 📈 GitHub Activity Graph
 
 <p align="center">
