@@ -85,16 +85,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chandupriya8179&theme=algolia"/>
-</p>
-
----
-
-
-
 ## 📈 GitHub Activity Graph
 
 <p align="center">
