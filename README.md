@@ -77,16 +77,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=chandupriya8179&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=chandupriya8179&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=chandupriya8179&theme=algolia&margin-w=10&margin-h=10"/>
 </p>
-
 
 ---
 
