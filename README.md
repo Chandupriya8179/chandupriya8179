@@ -112,12 +112,12 @@ Containerized production deployment using Kubernetes.
 
 ---
 
-### 😀 Emotion Detection System
+### 😀 leaf-disease-detection
 
-AI project that detects human emotions using machine learning.
+AI project that detects leaf disease.
 
-🔗 https://github.com/chandupriya8179/emotion-detection
-
+🔗 [https://github.com/chandupriya8179/emotion-detection
+](https://github.com/Chandupriya8179/leaf-disease-detection-.git)
 ---
 
 ### 💰 Money Heist Project
