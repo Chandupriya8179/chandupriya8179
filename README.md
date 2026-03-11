@@ -123,7 +123,7 @@ AI project that detects leaf disease.
 
 Programming project inspired by Money Heist.
 
-🔗 [https://github.com/chandupriya8179/money-heist](https://github.com/Chandupriya8179/MoneyHeistDetector.git)
+🔗 (https://github.com/Chandupriya8179/MoneyHeistDetector.git)
 
 
 ---
