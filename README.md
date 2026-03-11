@@ -124,7 +124,8 @@ AI project that detects human emotions using machine learning.
 
 Programming project inspired by Money Heist.
 
-🔗 https://github.com/chandupriya8179/money-heist
+🔗 [https://github.com/chandupriya8179/money-heist](https://github.com/Chandupriya8179/MoneyHeistDetector.git)
+
 
 ---
 
