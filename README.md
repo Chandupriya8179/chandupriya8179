@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Instagram-chandupriya.reddy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:chandupriya@8179@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
