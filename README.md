@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:9d4edd&height=200&section=header&text=Chandu%20Priya&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Chandu Priya</h1>
+<h1 align="center">Hi 👋 I'm Gurrala Chandu Priya</h1>
 
 <!-- Typing Animation -->
 
